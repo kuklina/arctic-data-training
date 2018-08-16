@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://training.arcticdata.io/</loc>
+  </url>
+  
+  <url>
+    <loc>http://training.arcticdata.io/materials/</loc>
+  </url>
+  
+  <url>
+    <loc>http://training.arcticdata.io/events/1_july_2018_nceas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://training.arcticdata.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://training.arcticdata.io/events/2_june_2018_polar/</loc>
+  </url>
+  
+  <url>
+    <loc>http://training.arcticdata.io/events/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://training.arcticdata.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://training.arcticdata.io/events/3_july_2017_nceas/</loc>
+  </url>
+  
+</urlset>
